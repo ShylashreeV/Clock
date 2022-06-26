@@ -4,7 +4,7 @@
 }
 
 body{
-    background: linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 500%));
+    background: linear-gradient(to right, hsl(224, 93%, 47%), hsl(175, 100%, 500%));
     display: flex;
     justify-content: center;
     align-items: center;
